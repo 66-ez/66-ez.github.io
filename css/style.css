@@ -8,6 +8,23 @@ body {
 body.login-body {
   background-color: #211328;
 }
+
+.game-title {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.7); /* Dark background with transparency */
+  color: white;
+  text-align: center;
+  padding: 5px;
+  font-size: 14px;
+  font-family: Arial, sans-serif;
+  box-sizing: border-box;
+  opacity: 0; /* Hidden by default */
+  visibility: hidden; /* Ensure it's not clickable when hidden */
+  transition: opacity 0.3s ease, visibility 0.3s ease; /* Smooth transition */
+}
+
 img {
   max-width: 100%;
   height: auto;
@@ -156,6 +173,7 @@ ul.user-links li {
 }
 .list-game {
   width: 100%;
+   position: relative;
 }
 .list-game-x:hover {
   padding: 10px;
@@ -227,8 +245,9 @@ ul.user-links li {
 }
 @media(hover: hover) and (pointer: fine) {
   .grid-1 .list-game:hover > .list-info {
-    opacity: 1;
     transition: all 0.5s ease;
+     opacity: 1; /* Show on hover */
+  visibility: visible; /* Make visible */
   }
   .list-thumbnail:hover {
     opacity: 0.5;
@@ -241,6 +260,9 @@ ul.user-links li {
 }
 .list-1 .list-thumbnail img {
   border-radius: 50%;
+   width: 100%;
+  height: auto;
+  display: block;
 }
 .row-list-1 {
   position: relative;
