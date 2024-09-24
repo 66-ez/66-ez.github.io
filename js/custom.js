@@ -1,12 +1,10 @@
 /*
-
 Custom script
 
 This file will not be overwritten by the updater
-
 */
 
-// JavaScript code
+// JavaScript code for search functionality
 function search_animal() {
   let input = document.getElementById("searchbar").value;
   input = input.toLowerCase();
@@ -36,7 +34,7 @@ function search_animal() {
   };
 })();
 
-// PWA Code
+// PWA Code with Analytics Tracking
 $(window).on('load', function () {
     // Dynamically add the manifest link
     const manifestLink = document.createElement('link');
@@ -82,12 +80,18 @@ $(window).on('load', function () {
             e.preventDefault(); // Prevent the default prompt
             deferredPrompt = e;
             popup.style.display = 'flex'; // Show the popup
+
+            // Google Analytics event to track popup being shown
+            gtag('event', 'pwa_install_prompt_shown', {
+              'event_category': 'PWA',
+              'event_label': 'PWA Install Prompt'
+            });
         });
 
         // Handle the install button click with countdown logic
         installButton.addEventListener('click', () => {
             if (deferredPrompt) {
-                let countdown = 3; // Set countdown to 5 seconds
+                let countdown = 3; // Set countdown to 3 seconds
                 installButton.innerHTML = `Installing in ${countdown}s...`;
 
                 const countdownInterval = setInterval(() => {
@@ -103,8 +107,20 @@ $(window).on('load', function () {
                         deferredPrompt.userChoice.then((choiceResult) => {
                             if (choiceResult.outcome === 'accepted') {
                                 console.log('User accepted the A2HS prompt');
+                                
+                                // Google Analytics event to track PWA installation
+                                gtag('event', 'pwa_installed', {
+                                  'event_category': 'PWA',
+                                  'event_label': 'PWA Installed'
+                                });
                             } else {
                                 console.log('User dismissed the A2HS prompt');
+                                
+                                // Google Analytics event to track PWA cancellation
+                                gtag('event', 'pwa_install_dismissed', {
+                                  'event_category': 'PWA',
+                                  'event_label': 'PWA Install Dismissed'
+                                });
                             }
                             deferredPrompt = null;
                             popup.style.display = 'none'; // Hide the popup
@@ -117,6 +133,12 @@ $(window).on('load', function () {
         // Handle the close popup button click
         closePopupButton.addEventListener('click', () => {
             popup.style.display = 'none';
+
+            // Google Analytics event to track the closing of the popup
+            gtag('event', 'pwa_popup_closed', {
+              'event_category': 'PWA',
+              'event_label': 'PWA Popup Closed'
+            });
         });
 
         // Hide popup when app is installed
@@ -124,6 +146,12 @@ $(window).on('load', function () {
             console.log('PWA was installed');
             localStorage.setItem('pwaInstalled', 'true'); // Save the flag in localStorage
             popup.style.display = 'none'; // Hide the popup
+
+            // Google Analytics event to track successful PWA installation
+            gtag('event', 'pwa_installed', {
+              'event_category': 'PWA',
+              'event_label': 'PWA Installed'
+            });
         });
     }
 });
