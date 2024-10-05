@@ -1,6 +1,2 @@
 User-agent: *
-Disallow: /admin/
-Disallow: /private/
 Allow: /
-
-Sitemap: https://66-ez.github.io/sitemap.xml
