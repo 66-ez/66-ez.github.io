@@ -1,19 +1,24 @@
-.game-container {
-    text-align: center;
-    margin-top: 20px;
-}
-
-.game-image {
-    width: 150px; /* Adjust the size as needed */
+.list-thumbnail {
+    position: relative; /* Ensure relative positioning for the title overlay */
+    width: 100%;
     height: auto;
 }
 
 .game-title {
-    font-size: 20px;
+    position: absolute; /* Position the text inside the box */
+    bottom: 10px; /* Distance from the bottom */
+    left: 50%; /* Center horizontally */
+    transform: translateX(-50%); /* Center alignment adjustment */
+    font-size: 14px;
     font-weight: bold;
-    color: #333; /* Change to any color you prefer */
-    margin-top: 10px;
+    color: white; /* Set to white for contrast, adjust if needed */
+    background-color: rgba(0, 0, 0, 0.5); /* Add a semi-transparent background for better readability */
+    padding: 5px;
+    border-radius: 5px; /* Optional: for rounded corners */
+    width: 80%; /* Optional: Adjust width */
+    text-align: center;
 }
+
 
 body {
   font-family: 'Poppins', sans-serif;
