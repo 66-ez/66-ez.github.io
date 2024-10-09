@@ -2,13 +2,11 @@
     text-align: center; /* Center align the game title */
 }
 
-.list-thumbnail {
-    margin-bottom: 10px; /* Add space between the image and title */
 }
 
 .game-title {
     font-size: 16px;
-    font-weight: bold;
+
     color: #ffffff;
     margin-top: 5px;
 }
