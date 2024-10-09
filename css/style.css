@@ -9,7 +9,7 @@
 .game-title {
     font-size: 16px; /* Adjust the font size as needed */
     color: #ffffff; /* Change the text color if desired */
-    margin-top: 5px; /* Optional: space above the title */
+    margin: 5px; /* Optional: space above the title */
 }
 
 body {
