@@ -1,13 +1,16 @@
 .list-game {
-    text-align: center; /* Center align the game title */
+    text-align: center; /* Center align the content within the game box */
+}
+
+.list-thumbnail {
+    margin-bottom: 5px; /* Add space between the image and the title */
 }
 
 .game-title {
-    font-size: 16px;
-    color: #white
-    margin-top: 5px;
+    font-size: 16px; /* Adjust the font size as needed */
+    color: #ffffff; /* Change the text color if desired */
+    margin-top: 5px; /* Optional: space above the title */
 }
-
 
 body {
   font-family: 'Poppins', sans-serif;
