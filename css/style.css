@@ -27,11 +27,9 @@ p {
 
 
 body {
-  font-family: 'Poppins', sans-serif;
-  color: rgba(225, 225, 225, 0.6);
-}
-body {
-  background-color: #211328;
+  background: linear-gradient(to bottom, #f0f8ff, #87cefa);
+  color: #333;
+  font-family: 'Arial', sans-serif;
 }
 body.login-body {
   background-color: #211328;
