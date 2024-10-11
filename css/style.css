@@ -10,13 +10,13 @@ button:hover {
 
 h1, h2 {
   font-family: 'Poppins', sans-serif;
-  color: #fff;
+  color: #000;
   font-weight: 600;
 }
 p {
   font-family: 'Roboto', sans-serif;
   font-size: 16px;
-  color: #fff;
+  color: #000;
 }
 
 
@@ -30,7 +30,7 @@ p {
 
 .game-title {
     font-size: 13px; /* Adjust the font size as needed */
-    color: #ffffff; /* Change the text color if desired */
+    color: #000; /* Change the text color if desired */
     margin: 5px; /* Optional: space above the title */
     text-wrap: nowrap;
 }
@@ -58,7 +58,7 @@ a:visited {
 }
 .top-nav {
   margin-bottom: 40px;
-  background-color: rgba(255, 255, 255, 0.1);
+  background-color: #6c757d;
   padding: 20px 0;
 }
 .top-nav a {
@@ -154,10 +154,10 @@ ul.user-links li {
   width: 100%;
 }
 .list-info {
-  color: rgba(255, 255, 255, 0.5);
+  color: #00000080;
 }
 .list-title {
-  color: #fff;
+  color: #000;
   white-space: nowrap;
   text-overflow: ellipsis;
   overflow: hidden;
@@ -314,7 +314,7 @@ ul.user-links li {
   float: right;
 }
 .footer-copyright {
-  background: rgba(0, 0, 0, 0.4);
+  background: #000;
 }
 .header-area {
   margin-bottom: 40px;
