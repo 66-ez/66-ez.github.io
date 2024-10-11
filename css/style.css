@@ -1,3 +1,13 @@
+header {
+  background-color: #1a1a1a;
+  padding: 20px;
+  text-align: center;
+}
+header img {
+  width: 200px;
+  height: auto;
+}
+
 button {
   background-color: #ff6600;
   border: none;
