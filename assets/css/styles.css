@@ -183,6 +183,10 @@ ul.links {
   color: #2c3e50;
 }
 
+.list-categories li.active a {
+  background: #f0f0f0;
+}
+
 nav.greedy button {
   padding: 6px 16px;
   text-decoration: none;
@@ -243,7 +247,7 @@ ul.hidden-links.hidden {
   display: none;
 }
 
-ul.hidden-links li:hover {
+ul.hidden-links li:hover, ul.hidden-links li.active {
   background-color: #eee;
 }
 
@@ -550,5 +554,9 @@ h1.single-title {
   padding-bottom: 10px;
   font-weight: bold;
   font-size: 1.75rem;
+}
+
+button.btn.hidden {
+  display: none;
 }
 
