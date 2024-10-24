@@ -458,7 +458,6 @@ hr {
 @media screen and (max-width: 992px) {
   .index-category-container ul {
     gap: unset;
-    /*min-height: 800px;*/
   }
 }
 
@@ -548,6 +547,7 @@ hr {
 @media screen and (max-width: 992px) {
   .index-category-blocks li {
     width: 100% !important;
+    margin-right: 0 !important;
   }
 }
 
