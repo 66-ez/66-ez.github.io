@@ -23,13 +23,6 @@
    </url>
 
    <url>
-      <loc>/game/among-us.html</loc>
-      <lastmod>2024-10-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.8</priority>
-   </url>
-
-   <url>
       <loc>/game/aqua-park.html</loc>
       <lastmod>2024-10-30</lastmod>
       <changefreq>daily</changefreq>
@@ -65,20 +58,6 @@
    </url>
 
    <url>
-      <loc>/game/basket-random.html</loc>
-      <lastmod>2024-10-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.8</priority>
-   </url>
-
-   <url>
-      <loc>/game/basketball-stars.html</loc>
-      <lastmod>2024-10-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.8</priority>
-   </url>
-
-   <url>
       <loc>/game/battle-city.html</loc>
       <lastmod>2024-10-30</lastmod>
       <changefreq>daily</changefreq>
@@ -101,13 +80,6 @@
 
    <url>
       <loc>/game/blockins.html</loc>
-      <lastmod>2024-10-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.8</priority>
-   </url>
-
-   <url>
-      <loc>/game/blockpost.html</loc>
       <lastmod>2024-10-30</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.8</priority>
@@ -170,21 +142,7 @@
    </url>
 
    <url>
-      <loc>/game/championship-island.html</loc>
-      <lastmod>2024-10-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.8</priority>
-   </url>
-
-   <url>
       <loc>/game/clash-of-tanks.html</loc>
-      <lastmod>2024-10-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.8</priority>
-   </url>
-
-   <url>
-      <loc>/game/classic-snake-game.html</loc>
       <lastmod>2024-10-30</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.8</priority>
@@ -241,13 +199,6 @@
 
    <url>
       <loc>/game/demolition-derby.html</loc>
-      <lastmod>2024-10-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.8</priority>
-   </url>
-
-   <url>
-      <loc>/game/dinosaur-game.html</loc>
       <lastmod>2024-10-30</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.8</priority>
@@ -373,56 +324,7 @@
    </url>
 
    <url>
-      <loc>/game/garden-gnome.html</loc>
-      <lastmod>2024-10-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.8</priority>
-   </url>
-
-   <url>
       <loc>/game/glitch-dash.html</loc>
-      <lastmod>2024-10-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.8</priority>
-   </url>
-
-   <url>
-      <loc>/game/google-baseball.html</loc>
-      <lastmod>2024-10-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.8</priority>
-   </url>
-
-   <url>
-      <loc>/game/google-cricket.html</loc>
-      <lastmod>2024-10-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.8</priority>
-   </url>
-
-   <url>
-      <loc>/game/google-halloween-game.html</loc>
-      <lastmod>2024-10-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.8</priority>
-   </url>
-
-   <url>
-      <loc>/game/google-maps-snake.html</loc>
-      <lastmod>2024-10-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.8</priority>
-   </url>
-
-   <url>
-      <loc>/game/google-minesweeper.html</loc>
-      <lastmod>2024-10-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.8</priority>
-   </url>
-
-   <url>
-      <loc>/game/google-snake-game.html</loc>
       <lastmod>2024-10-30</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.8</priority>
@@ -555,13 +457,6 @@
    </url>
 
    <url>
-      <loc>/game/knights-vs-orcs.html</loc>
-      <lastmod>2024-10-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.8</priority>
-   </url>
-
-   <url>
       <loc>/game/krunker.html</loc>
       <lastmod>2024-10-30</lastmod>
       <changefreq>daily</changefreq>
@@ -570,13 +465,6 @@
 
    <url>
       <loc>/game/lay-eggs.html</loc>
-      <lastmod>2024-10-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.8</priority>
-   </url>
-
-   <url>
-      <loc>/game/lethal-sniper-3d-army-soldier.html</loc>
       <lastmod>2024-10-30</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.8</priority>
@@ -598,13 +486,6 @@
 
    <url>
       <loc>/game/merge-the-cake.html</loc>
-      <lastmod>2024-10-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.8</priority>
-   </url>
-
-   <url>
-      <loc>/game/minecraft.html</loc>
       <lastmod>2024-10-30</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.8</priority>
@@ -709,21 +590,7 @@
    </url>
 
    <url>
-      <loc>/game/pacman-30th-anniversary.html</loc>
-      <lastmod>2024-10-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.8</priority>
-   </url>
-
-   <url>
       <loc>/game/paint-strike.html</loc>
-      <lastmod>2024-10-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.8</priority>
-   </url>
-
-   <url>
-      <loc>/game/paper-io-2.html</loc>
       <lastmod>2024-10-30</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.8</priority>
@@ -786,13 +653,6 @@
    </url>
 
    <url>
-      <loc>/game/recoil.html</loc>
-      <lastmod>2024-10-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.8</priority>
-   </url>
-
-   <url>
       <loc>/game/red-handed.html</loc>
       <lastmod>2024-10-30</lastmod>
       <changefreq>daily</changefreq>
@@ -807,13 +667,6 @@
    </url>
 
    <url>
-      <loc>/game/retro-snake.html</loc>
-      <lastmod>2024-10-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.8</priority>
-   </url>
-
-   <url>
       <loc>/game/road-fury.html</loc>
       <lastmod>2024-10-30</lastmod>
       <changefreq>daily</changefreq>
@@ -822,13 +675,6 @@
 
    <url>
       <loc>/game/rocket-road.html</loc>
-      <lastmod>2024-10-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.8</priority>
-   </url>
-
-   <url>
-      <loc>/game/rocket-soccer-derby.html</loc>
       <lastmod>2024-10-30</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.8</priority>
@@ -905,42 +751,7 @@
    </url>
 
    <url>
-      <loc>/game/smash-karts.html</loc>
-      <lastmod>2024-10-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.8</priority>
-   </url>
-
-   <url>
-      <loc>/game/snake-game-2.html</loc>
-      <lastmod>2024-10-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.8</priority>
-   </url>
-
-   <url>
-      <loc>/game/snake-io.html</loc>
-      <lastmod>2024-10-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.8</priority>
-   </url>
-
-   <url>
       <loc>/game/snake.html</loc>
-      <lastmod>2024-10-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.8</priority>
-   </url>
-
-   <url>
-      <loc>/game/soccer-random.html</loc>
-      <lastmod>2024-10-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.8</priority>
-   </url>
-
-   <url>
-      <loc>/game/soccer-skills.html</loc>
       <lastmod>2024-10-30</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.8</priority>
@@ -1129,13 +940,6 @@
    </url>
 
    <url>
-      <loc>/game/tunnel.html</loc>
-      <lastmod>2024-10-30</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.8</priority>
-   </url>
-
-   <url>
       <loc>/game/turbo-moto-racer.html</loc>
       <lastmod>2024-10-30</lastmod>
       <changefreq>daily</changefreq>
@@ -1172,6 +976,202 @@
 
    <url>
       <loc>/game/wiggle.html</loc>
+      <lastmod>2024-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+
+   <url>
+      <loc>/game/among-us.html</loc>
+      <lastmod>2024-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+
+   <url>
+      <loc>/game/basket-random.html</loc>
+      <lastmod>2024-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+
+   <url>
+      <loc>/game/basketball-stars.html</loc>
+      <lastmod>2024-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+
+   <url>
+      <loc>/game/blockpost.html</loc>
+      <lastmod>2024-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+
+   <url>
+      <loc>/game/championship-island.html</loc>
+      <lastmod>2024-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+
+   <url>
+      <loc>/game/classic-snake-game.html</loc>
+      <lastmod>2024-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+
+   <url>
+      <loc>/game/dinosaur-game.html</loc>
+      <lastmod>2024-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+
+   <url>
+      <loc>/game/garden-gnome.html</loc>
+      <lastmod>2024-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+
+   <url>
+      <loc>/game/google-baseball.html</loc>
+      <lastmod>2024-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+
+   <url>
+      <loc>/game/google-cricket.html</loc>
+      <lastmod>2024-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+
+   <url>
+      <loc>/game/google-halloween-game.html</loc>
+      <lastmod>2024-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+
+   <url>
+      <loc>/game/google-maps-snake.html</loc>
+      <lastmod>2024-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+
+   <url>
+      <loc>/game/google-minesweeper.html</loc>
+      <lastmod>2024-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+
+   <url>
+      <loc>/game/google-snake-game.html</loc>
+      <lastmod>2024-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+
+   <url>
+      <loc>/game/knights-vs-orcs.html</loc>
+      <lastmod>2024-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+
+   <url>
+      <loc>/game/lethal-sniper-3d-army-soldier.html</loc>
+      <lastmod>2024-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+
+   <url>
+      <loc>/game/minecraft.html</loc>
+      <lastmod>2024-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+
+   <url>
+      <loc>/game/pacman-30th-anniversary.html</loc>
+      <lastmod>2024-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+
+   <url>
+      <loc>/game/paper-io-2.html</loc>
+      <lastmod>2024-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+
+   <url>
+      <loc>/game/recoil.html</loc>
+      <lastmod>2024-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+
+   <url>
+      <loc>/game/retro-snake.html</loc>
+      <lastmod>2024-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+
+   <url>
+      <loc>/game/rocket-soccer-derby.html</loc>
+      <lastmod>2024-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+
+   <url>
+      <loc>/game/smash-karts.html</loc>
+      <lastmod>2024-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+
+   <url>
+      <loc>/game/snake-game-2.html</loc>
+      <lastmod>2024-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+
+   <url>
+      <loc>/game/snake-io.html</loc>
+      <lastmod>2024-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+
+   <url>
+      <loc>/game/soccer-random.html</loc>
+      <lastmod>2024-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+
+   <url>
+      <loc>/game/soccer-skills.html</loc>
+      <lastmod>2024-10-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+   </url>
+
+   <url>
+      <loc>/game/tunnel.html</loc>
       <lastmod>2024-10-30</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.8</priority>
