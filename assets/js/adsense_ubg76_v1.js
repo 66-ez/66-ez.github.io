@@ -35,7 +35,7 @@ window.addEventListener("load", (event) => {
             } else if (window.location.href.indexOf(".html")== -1) {
                 console.log("Adsense Skip! Home Page!");
             } else if (window.location.href.indexOf("-unblockedz.html")> -1) {
-                console.log("Adsense Skip! DMCA!");
+                console.log("Adsense Skip! DMCA!");            
             } else {
                 console.log("Adsense Served!");
                 loadGoogleAdsense();
