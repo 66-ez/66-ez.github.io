@@ -658,6 +658,12 @@ hr {
   width: 100%;
 }
 
+@media (min-width: 1600px) {
+  .game-iframe-container {
+    padding-top: 40% !important;
+  }
+}
+
 .game-iframe {
   position: absolute;
   top: 0;
@@ -672,6 +678,12 @@ hr {
   width: 100%;
   aspect-ratio: 16 / 9;
   border: none;
+}
+
+@media (min-width: 1600px) {
+  .game-ifame {
+    max-height: 640px;
+  }
 }
 
 .single-info-container {
@@ -696,6 +708,7 @@ h1.single-title {
   margin: 0;
   font-weight: bold;
   font-size: 1.25rem;
+  color: white;
 }
 
 .action-btn {
