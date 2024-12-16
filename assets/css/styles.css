@@ -658,7 +658,7 @@ hr {
   width: 100%;
 }
 
-@media (min-width: 1600px) {
+@media (min-width: 640px) {
   .game-iframe-container {
     padding-top: 40% !important;
   }
@@ -680,10 +680,8 @@ hr {
   border: none;
 }
 
-@media (min-width: 1600px) {
-  .game-ifame {
-    max-height: 640px;
-  }
+.game-ifame {
+  max-height: 640px;
 }
 
 .single-info-container {
