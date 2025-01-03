@@ -163,7 +163,7 @@
 	-ms-transition: all 1000ms ease;
 	-o-transition: all 1000ms ease;
 	transition: all 1000ms ease;
-	font-family:var(--font-family-Josefin);
+	font-family: 'Open Sans', sans-serif;
 	margin-bottom:var(--margin-bottom-30);
 }
 
@@ -189,7 +189,7 @@
 	-ms-transition: all 1000ms ease;
 	-o-transition: all 1000ms ease;
 	transition: all 1000ms ease;
-	font-family:var(--font-family-Josefin);
+	font-family: 'Open Sans', sans-serif;
 	margin-bottom:var(--margin-bottom-45);
 }
 
@@ -224,7 +224,7 @@
 	text-transform:uppercase;
 	display:inline-block;
 	padding-right:var(--padding-right-25);
-	font-family:var(--font-family-Jost);
+	font-family: 'Open Sans', sans-serif;
 }
 
 .main-slider .active .shop-now{
@@ -1046,7 +1046,7 @@
 	display:inline-block;
 	font-size:var(--font-60);
 	color:rgba(var(--black-color-rgb), 0.15);
-	font-family: var(--font-family-Outfit);
+	font-family: 'Open Sans', sans-serif;
 }
 
 .brand-section span{
@@ -2445,7 +2445,7 @@
 	-ms-transition: all 1000ms ease;
 	-o-transition: all 1000ms ease;
 	transition: all 1000ms ease;
-	font-family:var(--font-family-Josefin);
+	font-family: 'Open Sans', sans-serif;
 	margin-bottom:var(--margin-bottom-15);
 }
 
@@ -3258,7 +3258,7 @@
 	font-weight:600;
 	color:var(--color-twentyeight);
 	margin-top:var(--margin-top-30);
-	font-family:var(--font-family-Josefin);
+	font-family: 'Open Sans', sans-serif;
 }
 
 .services-section .content .numbers{
@@ -3695,7 +3695,7 @@
 	-ms-transition: all 1000ms ease;
 	-o-transition: all 1000ms ease;
 	transition: all 1000ms ease;
-	font-family:var(--font-family-Josefin);
+	font-family: 'Open Sans', sans-serif;
 	margin-bottom:var(--margin-bottom-10);
 }
 
@@ -6094,7 +6094,7 @@
 .shop-detail-section .content-column h3{
 	font-weight:600;
 	color:var(--black-color);
-	font-family:var(--font-family-Josefin);
+	font-family: 'Open Sans', sans-serif;
 }
 
 .shop-detail-section .content-column .text{
@@ -7744,7 +7744,7 @@
 	font-weight:500;
 	margin-top:var(--margin-top-20);
 	color:var(--color-twentyeight);
-	font-family:var(--font-family-Jost);
+	font-family: 'Open Sans', sans-serif;
 }
 
 .about-section .text{
@@ -8828,7 +8828,7 @@
 	margin:20px 0px;
 	font-size:var(--font-32);
 	color:var(--color-sixtyfour);
-	font-family:var(--font-family-Josefin);
+	font-family: 'Open Sans', sans-serif;
 }
 
 .blog-detail h4{
@@ -9952,7 +9952,7 @@
 
 .contact-page-section .title-box h3{
 	font-weight:500;
-	font-family:var(--font-family-Josefin);
+	font-family: 'Open Sans', sans-serif;
 }
 
 .contact-page-section .title-box .text{
