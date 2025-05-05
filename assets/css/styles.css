@@ -521,6 +521,9 @@ hr {
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 1;
   overflow: hidden;
+  padding: 1rem;
+  text-align: center;
+  text-wrap-mode: nowrap;
 }
 
 .title-page {
