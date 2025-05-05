@@ -521,9 +521,7 @@ hr {
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 1;
   overflow: hidden;
-  padding: 1rem;
-  text-align: center;
-  text-wrap-mode: nowrap;
+
 }
 
 .title-page {
@@ -906,8 +904,11 @@ h1, h2 {
 
 @media (min-width: 1200px) {
   h3 {
-    font-size: 1.17em;
-    font-weight: 500;
+    font-size: 15px;
+        font-weight: 500;
+        padding: 1rem;
+        text-align: center;
+        text-wrap-mode: nowrap;
   }
 }
 
