@@ -1,24 +1,19 @@
-function loadGoogleAnalytics(id) {
-    // Google tag (gtag.js)
-    var firstScript= document.getElementsByTagName("script")[0];
-    newScript= document.createElement("script");
-    newScript.async= "";
-    newScript.src= "https://www.googletagmanager.com/gtag/js?id="+ id;
-    firstScript.parentNode.insertBefore(newScript, firstScript);
+(function() {
+  // Create a new script element
+  var script = document.createElement('script');
+  script.async = true;
+  script.src = 'https://www.googletagmanager.com/gtag/js?id=G-5Q28Z4RCKL';
 
+  // Append the script to the document head
+  document.head.appendChild(script);
+
+  // Initialize the dataLayer and gtag function
+  script.onload = function() {
     window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', id);
-}
-
-window.addEventListener("load", function() {
-    if (navigator.webdriver) {
-      console.log('Bot Browser');
-      loadGoogleAnalytics("G-5Q28Z4RCKL");
-
-    } else {
-      console.log('Human Browser');
-      loadGoogleAnalytics("G-5Q28Z4RCKL");
+    function gtag() {
+      dataLayer.push(arguments);
     }
-});
+    gtag('js', new Date());
+    gtag('config', 'G-5Q28Z4RCKL');
+  };
+})();
