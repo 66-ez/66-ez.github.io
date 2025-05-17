@@ -2,7 +2,7 @@
 (function() {
   var script = document.createElement('script');
   script.async = true;
-  script.src = 'https://www.googletagmanager.com/gtag/js?id=G-M97CMQ0H59';
+  script.src = 'https://www.googletagmanager.com/gtag/js?id=G-HV1Y6S8501';
   document.head.appendChild(script);
 })();
 
@@ -12,4 +12,5 @@ function gtag() {
   dataLayer.push(arguments);
 }
 gtag('js', new Date());
-gtag('config', 'G-M97CMQ0H59');
+gtag('config', 'G-HV1Y6S8501');
+
